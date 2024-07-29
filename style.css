@@ -603,7 +603,11 @@
 .text-area p br {
     display: none;
 }
+
+
+
 .footer-section {
+    
     display: none;
   }
 }
