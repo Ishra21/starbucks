@@ -603,12 +603,12 @@
 .text-area p br {
     display: none;
 }
-
-}
-
 .footer-section {
-  display: none;
+    display: none;
+  }
 }
+
+
 
 /* Responsive css 768px */
 /* 
