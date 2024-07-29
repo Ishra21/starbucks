@@ -607,9 +607,10 @@
 
 
 .footer-section {
-    
+    height: 100px;
     display: none;
   }
+
 }
 
 
