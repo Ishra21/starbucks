@@ -432,7 +432,8 @@
     .right-part{
     width: 50%;
     height: 100%;
-    background-color: #006241;
+    background-color: green;
+    /* background-color: #006241; */
     color: white;
     padding-inline: 20px;
 }     
