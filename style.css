@@ -128,8 +128,8 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-color:black;
-    color: white;
+    background-color: #97D8B1;
+    color: black;
 }
 
 .right-part h2 {
@@ -263,10 +263,6 @@
     padding-inline: 40px;
 }
 
-.right-part {
-    background-color: #97D8B1;
-    color: black;
-}
 .right-part p {
     line-height: 30px;
     text-align: center;
@@ -433,8 +429,8 @@
     width: 50%;
     height: 100%;
     /* background-color: green; */
-    background-color:  #97D8B1;
-    color: white;
+    background-color: #97D8B1;
+    color: black;
     padding-inline: 20px;
 }     
 
