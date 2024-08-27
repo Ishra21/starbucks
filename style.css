@@ -128,7 +128,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-color:#006241;
+    background-color:black;
     color: white;
 }
 
@@ -432,8 +432,8 @@
     .right-part{
     width: 50%;
     height: 100%;
-    background-color: green;
-    /* background-color: #006241; */
+    /* background-color: green; */
+    background-color:  #97D8B1;
     color: white;
     padding-inline: 20px;
 }     
